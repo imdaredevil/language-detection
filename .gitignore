@@ -1,0 +1,9 @@
+models/*
+outputs/*
+dataset/*
+research-papers/*
+**/.ipynb_checkpoints
+**/*.egg-info
+**/__pycache__
+!**/.gitignore
+!**/README.md
